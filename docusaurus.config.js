@@ -16,13 +16,13 @@ const config = {
   url: 'https://r2ata.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/r2ata-web/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'esther-gan', // Usually your GitHub org/user name.
-  projectName: 'r2ata', // Usually your repo name.
-  trailingSlash: false,
+  projectName: 'r2ata-web', // Usually your repo name.
+  // trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
