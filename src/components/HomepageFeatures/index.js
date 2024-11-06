@@ -19,8 +19,9 @@ const FeatureList = [
     buttons: [
       {
         label: 'Check out our paper',
-        link: 'https://github.com/spaceship-git',
+        link: 'https://openreview.net/pdf?id=xOy3dfljqV',
       },
+      { label: 'Check out our poster', link: 'https://drive.google.com/file/d/1auOKL5KCEsNm45oaJfNupargiw-MnL3p/view?usp=sharing' },
       { label: 'Explore our dataset', link: '/docs/intro' },
     ],
   },
