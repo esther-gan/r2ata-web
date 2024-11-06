@@ -85,7 +85,7 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/esther-gan/R2ATA',
+            href: 'https://openreview.net/pdf?id=xOy3dfljqV',
             label: 'Paper',
             position: 'right',
           },
