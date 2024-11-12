@@ -19,7 +19,7 @@ const FeatureList = [
     buttons: [
       {
         label: 'Check out our paper',
-        link: 'https://openreview.net/pdf?id=xOy3dfljqV',
+        link: 'https://aclanthology.org/2024.emnlp-main.584/',
       },
       { label: 'Check out our poster', link: 'https://drive.google.com/file/d/1auOKL5KCEsNm45oaJfNupargiw-MnL3p/view?usp=sharing' },
     ],
