@@ -85,7 +85,7 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://openreview.net/pdf?id=xOy3dfljqV',
+            href: 'https://aclanthology.org/2024.emnlp-main.584/',
             label: 'Paper',
             position: 'right',
           },
